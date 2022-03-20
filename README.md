@@ -8,3 +8,4 @@ my daily CodeWars challenge
 |18/03/2022|8kyu|[Remove first and last character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/remove_first_and_last_character.js)|
 |19/03/2022|8kyu|[Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/basic_math_operations.js)
 |19/03/2022|8kyu|[String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/string_repeat.js)
+|20/03/2022|8kyu|[Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/sum_arrays.js)
