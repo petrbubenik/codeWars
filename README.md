@@ -9,3 +9,5 @@ my daily CodeWars challenge
 |19/03/2022|8kyu|[Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/basic_math_operations.js)
 |19/03/2022|8kyu|[String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/string_repeat.js)
 |20/03/2022|8kyu|[Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/sum_arrays.js)
+|21/03/2022|8kyu|[How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/how_good_are_you_really.js)
+|21/03/2022|8kyu|[Rock, Paper, Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/rock_paper_scissors.js)
