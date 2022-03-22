@@ -12,3 +12,5 @@ my daily CodeWars challenge
 |21/03/2022|8kyu|[How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/how_good_are_you_really.js)
 |21/03/2022|8kyu|[Rock, Paper, Scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/rock_paper_scissors.js)
 |21/03/2022|8kyu|[Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/invert_values.js)
+|22/03/2022|8kyu|[Convert Boolean to String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/convert_boolean_to_string.js)
+|22/03/2022|8kyu|[DNA to RNA conversion](https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/dna_to_rna_conversion.js)
