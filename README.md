@@ -16,3 +16,6 @@ my daily CodeWars challenge
 |22/03/2022|8kyu|[DNA to RNA conversion](https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/dna_to_rna_conversion.js)
 |23/03/2022|8kyu|[Will you make it](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/will_you_make_it.js)
 |24/03/2022|8kyu|[Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/total_amount_of_points.js)
+|25/03/2022|8kyu|[Lost without a map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/lost_without_a_map.js)
+|25/03/2022|8kyu|[Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/merge_two_sorted_arrays_into_one.js)
+|25/03/2022|8kyu|[Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/parse_nice_int_from_char_problem.js)
