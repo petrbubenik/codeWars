@@ -19,3 +19,6 @@ my daily CodeWars challenge
 |25/03/2022|8kyu|[Lost without a map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/lost_without_a_map.js)
 |25/03/2022|8kyu|[Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/merge_two_sorted_arrays_into_one.js)
 |25/03/2022|8kyu|[Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/parse_nice_int_from_char_problem.js)
+|26/03/2022|8kyu|[Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/count_odd_numbers_below_n.js)
+|26/03/2022|8kyu|[Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/find_first_non_consecutive_number.js)
+
