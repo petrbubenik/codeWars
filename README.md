@@ -21,4 +21,6 @@ my daily CodeWars challenge
 |25/03/2022|8kyu|[Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/parse_nice_int_from_char_problem.js)
 |26/03/2022|8kyu|[Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/count_odd_numbers_below_n.js)
 |26/03/2022|8kyu|[Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/find_first_non_consecutive_number.js)
-
+|26/03/2022|8kyu|[Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/convert_string_to_array.js)
+|26/03/2022|8kyu|[Decibel scale](https://www.codewars.com/kata/5612a42e746aa62de100001a/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/decibel_scale.js)
+|26/03/2022|8kyu|[Gravity flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/gravity_flip.js)
