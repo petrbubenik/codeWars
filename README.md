@@ -24,3 +24,5 @@ my daily CodeWars challenge
 |26/03/2022|8kyu|[Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/convert_string_to_array.js)
 |26/03/2022|8kyu|[Decibel scale](https://www.codewars.com/kata/5612a42e746aa62de100001a/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/decibel_scale.js)
 |26/03/2022|8kyu|[Gravity flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/gravity_flip.js)
+|28/03/2022|7kyu|[Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/descending_order.js)
+|28/03/2022|7kyu|[Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/isograms.js)
