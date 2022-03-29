@@ -26,3 +26,7 @@ my daily CodeWars challenge
 |27/03/2022|8kyu|[Gravity flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/gravity_flip.js)
 |28/03/2022|7kyu|[Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/descending_order.js)
 |28/03/2022|7kyu|[Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/isograms.js)
+|29/03/2022|8kyu|[Opposites attract](https://www.codewars.com/kata/555086d53eac039a2a000083/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/oposites_attract.js)
+|29/03/2022|8kyu|[Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/powers_of_two.js)
+|29/03/2022|8kyu|[Sleep sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/sleep_sheep.js)
+|29/03/2022|8kyu|[Volume of cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/volume_of_cuboid.js)
