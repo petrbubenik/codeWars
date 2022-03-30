@@ -30,3 +30,7 @@ my daily CodeWars challenge
 |29/03/2022|8kyu|[Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/powers_of_two.js)
 |29/03/2022|8kyu|[Sleep sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/sleep_sheep.js)
 |29/03/2022|8kyu|[Volume of cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/volume_of_cuboid.js)
+|30/03/2022|8kyu|[Even or odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/even_or_odd.js)
+|30/03/2022|8kyu|[Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/quarter_of_the_year.js)
+|30/03/2022|8kyu|[Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/twice_as_old.js)
+|30/03/2022|8kyu|[A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/wolf_sheep.js)
