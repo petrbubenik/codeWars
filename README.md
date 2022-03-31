@@ -34,3 +34,6 @@ my daily CodeWars challenge
 |30/03/2022|8kyu|[Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/quarter_of_the_year.js)
 |30/03/2022|8kyu|[Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/twice_as_old.js)
 |30/03/2022|8kyu|[A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/wolf_sheep.js)
+|31/03/2022|7kyu|[Sort numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/sort_numbers.js)
+|31/03/2022|8kyu|[Closest elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/closest_elevator.js)
+|31/03/2022|8kyu|[Pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/pillars.js)
