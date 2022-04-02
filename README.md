@@ -37,3 +37,6 @@ my daily CodeWars challenge
 |31/03/2022|7kyu|[Sort numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/sort_numbers.js)
 |31/03/2022|8kyu|[Closest elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/closest_elevator.js)
 |31/03/2022|8kyu|[Pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/8kyu/pillars.js)
+|02/04/2022|8kyu|[Count the dicisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/count_the_divisors_of_number.js)
+|02/04/2022|8kyu|[Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/sum_of_two_lowest_positive_integers.js)
+|02/04/2022|8kyu|[Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/friend_or_foe.js)
