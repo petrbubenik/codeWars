@@ -43,3 +43,5 @@ my daily CodeWars challenge
 |03/04/2022|7kyu|[Maximum length difference](https://www.codewars.com/kata/5663f5305102699bad000056/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/max_length_difference.js)
 |04/04/2022|7kyu|[Printer Error](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/printer_error.js)
 |04/04/2022|7kyu|[Return the closest number multiple of 10](https://www.codewars.com/kata/58249d08b81f70a2fc0001a4/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/return_closest_multiple_10.js)
+|05/04/2022|7kyu|[Square every digit](https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/square_every_digit.js)
+|05/04/2022|7kyu|[Vowel count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/vowel_count.js)
