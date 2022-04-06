@@ -45,3 +45,5 @@ my daily CodeWars challenge
 |04/04/2022|7kyu|[Return the closest number multiple of 10](https://www.codewars.com/kata/58249d08b81f70a2fc0001a4/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/return_closest_multiple_10.js)
 |05/04/2022|7kyu|[Square every digit](https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/square_every_digit.js)
 |05/04/2022|7kyu|[Vowel count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/vowel_count.js)
+|06/04/2022|7kyu|[Disemvowel troll](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/disemvowel_troll.js)
+|06/04/2022|7kyu|[Highest and lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/highest_and_lowest.js)
