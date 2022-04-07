@@ -47,3 +47,5 @@ my daily CodeWars challenge
 |05/04/2022|7kyu|[Vowel count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/vowel_count.js)
 |06/04/2022|7kyu|[Disemvowel troll](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/disemvowel_troll.js)
 |06/04/2022|7kyu|[Highest and lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/highest_and_lowest.js)
+|07/04/2022|7kyu|[Get the middle character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/get_the_middle_character.js)
+|07/04/2022|7kyu|[Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/mumbling.js)
