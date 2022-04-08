@@ -49,3 +49,5 @@ my daily CodeWars challenge
 |06/04/2022|7kyu|[Highest and lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/highest_and_lowest.js)
 |07/04/2022|7kyu|[Get the middle character](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/get_the_middle_character.js)
 |07/04/2022|7kyu|[Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/mumbling.js)
+|08/04/2022|7kyu|[List filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/list_filtering.js)
+|08/04/2022|7kyu|[You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/youre_a_square.js)
