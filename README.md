@@ -51,3 +51,5 @@ my daily CodeWars challenge
 |07/04/2022|7kyu|[Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/mumbling.js)
 |08/04/2022|7kyu|[List filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/list_filtering.js)
 |08/04/2022|7kyu|[You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/youre_a_square.js)
+|10/04/2022|7kyu|[Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/exes_and_ohs.js)
+|10/04/2022|7kyu|[Shortest word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/shortest_word.js)
