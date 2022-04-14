@@ -55,3 +55,7 @@ my daily CodeWars challenge
 |10/04/2022|7kyu|[Shortest word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/shortest_word.js)
 |11/04/2022|7kyu|[Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/complementary_dna.js)
 |11/04/2022|7kyu|[Jaden casing strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/jaden_casing_strings.js)
+|12/04/2022|7kyu|[Credit Card mask](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/credit_card_mask.js)
+|14/04/2022|7kyu|[Growth of the population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/jgrowth_of_the_population.js)
+|14/04/2022|7kyu|[Two to one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/two_to_one.js)
+|14/04/2022|7kyu|[Sum of numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/sum_of_numbers.js)
