@@ -59,3 +59,5 @@ my daily CodeWars challenge
 |14/04/2022|7kyu|[Growth of the population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/jgrowth_of_the_population.js)
 |14/04/2022|7kyu|[Two to one](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/two_to_one.js)
 |14/04/2022|7kyu|[Sum of numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/sum_of_numbers.js)
+|25/04/2022|7kyu|[Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/categorize_new_member.js)
+|25/04/2022|7kyu|[Find the next perfect square](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/find_the_next_perfect_square.js)
