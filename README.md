@@ -61,3 +61,7 @@ my daily CodeWars challenge
 |14/04/2022|7kyu|[Sum of numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/sum_of_numbers.js)
 |25/04/2022|7kyu|[Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/categorize_new_member.js)
 |25/04/2022|7kyu|[Find the next perfect square](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/find_the_next_perfect_square.js)
+|26/04/2022|7kyu|[Binary Addition](https://www.codewars.com/kata/551f37452ff852b7bd000139/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/binary_addition.js)
+|26/04/2022|7kyu|[Is this a triangle](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/is_this_triangle.js)
+|27/04/2022|7kyu|[Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/sum_of_odd_numbers.js)
+|28/04/2022|7kyu|[Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/find_the_next_perfect_square.js)
