@@ -66,3 +66,5 @@ my daily CodeWars challenge
 |27/04/2022|7kyu|[Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/sum_of_odd_numbers.js)
 |28/04/2022|7kyu|[Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/find_the_next_perfect_square.js)
 |01/05/2022|7kyu|[Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/number_of_people_in_bus.js)
+|02/05/2022|7kyu|[Find the divisors](https://www.codewars.com/kata/544aed4c4a30184e960010f4/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/find_first_divisor.js)
+|02/05/2022|7kyu|[Odd or Even](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)|[js](https://github.com/petrbubenik/codeWars/blob/main/javascript/7kyu/odd_or_even.js)
